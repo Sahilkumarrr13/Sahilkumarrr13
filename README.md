@@ -3,7 +3,7 @@
 
 ## 👑 About Me
 
-🎓 I am Sahil Kumar, a **3🌟 Codechef Coder** , **Data Enthusiast** pursuing my Bachelors in **Electrical & Electronics Engineering** from [**Punjab Engineering College**](https://pec.ac.in/).
+🎓 I am Sahil Kumar, a **3🌟 Codechef Coder** , **Data Enthusiast** pursuing my Bachelors in **Electrical Engineering** from [**Punjab Engineering College**](https://pec.ac.in/).
 
 👨‍💻 I enjoy **Coding**, draw out useful **insights from Datasets** and contribute to **Open Source Projects**. I am always motivated to learn about new technologies and skills.
 
